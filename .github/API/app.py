@@ -1,4 +1,3 @@
-pip install fastapi 
 
 import os
 from typing import Union
